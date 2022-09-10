@@ -1,0 +1,5 @@
+MICROSOFT SQL SERVER
+INSERT [dbo].[tbl_vehicle] ([id], [name], [image], [vehicle_type], [vehicle_brand], [state]) VALUES (195, N'Koleos', N'vehi.jpeg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ', 11, 43, N'A')
+
+POSTGRES
+INSERT INTO tbl_vehicle (id, name, image, vehicle_type, vehicle_brand, state) VALUES (195, 'Koleos', 'vehi.jpeg', 11, 43, 'A');
